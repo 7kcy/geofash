@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Geometry Dash WASM",
+  "short_name": "Geometry Dash",
+  "description": "Geometry Dash running in a standalone browser app.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
